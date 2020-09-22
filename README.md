@@ -1,5 +1,5 @@
 # Proyecto-propuesta-Servicios
 ## Global Lawyer ⌨️
-### Demo funcional freepbx y microsip 
+* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
 
 
